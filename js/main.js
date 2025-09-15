@@ -89,6 +89,9 @@ function commander(cmd) {
     case "turn on light":
       loopLines(hitchhiker, "color2 margin", 80);
       break;
+    case "look around":
+      loopLines(spacequest, "color2 margin", 80);
+      break;
     default:
       addLine("<span class=\"inherit\">Command not found. For a list of commands, type <span class=\"command\">'help'</span>.</span>", "error", 100);
       break;

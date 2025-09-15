@@ -111,3 +111,9 @@ hitchhiker = [
   "<br>"
 ];
 
+spacequest = [
+  "<br>",
+  "You are startled by the sound of an alarm. It is followed by an urgent voice",
+  "that warns that the Arcada has been boarded by unknown intruders. It ends abruptly.",
+  "<br>"
+];
